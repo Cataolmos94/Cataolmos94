@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+margin: 0;
+background-color: rgb(238, 202, 202);
+}
+
+.bloquetitulo{
+ font-size: 40px;
+ letter-spacing: 1px;
+ margin: 0;
+ padding-top: 50px;
+ text-align: center;
+ font-family: segoe print;
+ color: rgb(7, 7, 6);
+
+}
+
+.parrafotitulo1 {
+letter-spacing: 1px;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+margin-top: -30px;
+text-align: center;
+font-size: 25px;
+padding-bottom: 25px;
+
+}
+
+.pfotografia{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 15%;
+}
+
+.fotografia{
+    width: 800px;
+    display: block;
+    margin: 135px auto;
+    border-radius: 15px;
+}
+
+
+
+
